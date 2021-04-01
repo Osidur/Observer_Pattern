@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\hugo.pollack\\.nuget\\packages\\": {}
+    "C:\\Users\\hugop\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hugo.pollack\\Documents\\GitHub\\Observer_Pattern\\Observer_Pattern\\Observer_Pattern\\Observer_Pattern.csproj",
+      "projectUniqueName": "C:\\Users\\hugop\\OneDrive\\Documents\\GitHub\\Observer_Pattern\\Observer_Pattern\\Observer_Pattern\\Observer_Pattern.csproj",
       "projectName": "Observer_Pattern",
-      "projectPath": "C:\\Users\\hugo.pollack\\Documents\\GitHub\\Observer_Pattern\\Observer_Pattern\\Observer_Pattern\\Observer_Pattern.csproj",
-      "packagesPath": "C:\\Users\\hugo.pollack\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hugo.pollack\\Documents\\GitHub\\Observer_Pattern\\Observer_Pattern\\Observer_Pattern\\obj\\",
+      "projectPath": "C:\\Users\\hugop\\OneDrive\\Documents\\GitHub\\Observer_Pattern\\Observer_Pattern\\Observer_Pattern\\Observer_Pattern.csproj",
+      "packagesPath": "C:\\Users\\hugop\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hugop\\OneDrive\\Documents\\GitHub\\Observer_Pattern\\Observer_Pattern\\Observer_Pattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hugo.pollack\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hugop\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,6 +32,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -43,6 +44,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.407\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
